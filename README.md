@@ -24,7 +24,7 @@ Here are some selected projects that highlight my backend development and proble
 #### 1. Real-Time Flight Simulator Systems
 *   **Company:** Multi Pilot Simulations
 *   **Role:** Software Engineer
-*   **Tech Stack:** C++, Internal Debugging & Development Tools
+*   **Tech Stack:** C#, Internal Debugging & Development Tools
 
 As a Software Engineer in the development department, I work on A320 CEO/NEO, B737NG, and B737MAX simulators. My role is focused on ensuring the highest level of reliability and safety for pilot training.
 
